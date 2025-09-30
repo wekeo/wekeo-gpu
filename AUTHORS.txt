@@ -1,0 +1,9 @@
+# Copyright holder
+EUMETSAT under the frameworks of the Copernicus Programme
+
+# List of development authors
+Anna-Lena Erdmann (EUMETSAT)
+Hugues Sassier (Thales Alenia Space)
+
+# Support
+For all queries on this software package, please contact support@wekeo.eu
