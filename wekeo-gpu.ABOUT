@@ -2,7 +2,7 @@
 name: wekeo-gpu
 description: Compendium of training content associated to the use of the GPU resources on the WEkEO workspace.
 copyright: 2025 European Union
-license_spdx: MIT
+license_spdx: glp-3.0-or-later
 date: 10-10-2025
 home_url: https://gitlab.eumetsat.int/eumetlab/wekeo-tools/wekeo-gpu
 
