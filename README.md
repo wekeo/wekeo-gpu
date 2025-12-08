@@ -45,4 +45,5 @@ nvtop requires a linux operating system.
 | python    | 3.10.18  | PSF-2.0      | [python.org](https://www.python.org/downloads/release/python-3100/)  |
 | ollama    | 0.12.2  | MIT    | [anaconda.org/conda-forge/ollama](https://anaconda.org/conda-forge/ollama)  |
 | nvtop   | 3.1.0  | GPL-3.0-or-later  | [anaconda.org/conda-forge/nvtop](https://anaconda.org/conda-forge/nvtop)  |
+| pip  | 20.0.2  | MIT    | [anaconda.org/conda-forge/pip](https://anaconda.org/channels/conda-forge/packages/pip/overview)  |
 | pytorch  | 2.9.0  | BSD-3-Clause    | [pypi.org/project/torch](https://pypi.org/project/torch/)  |
